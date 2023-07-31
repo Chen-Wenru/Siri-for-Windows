@@ -6,3 +6,5 @@ Because Siri cannot be used on the Windows system originally, a Windows system v
 For example, like this is someone else's Siri for Windows; https://www.intowindows.com/mitini-siri-for-windows/
 
 Check out this YouTube video: https://www.youtube.com/watch?v=QLwIDjNX3IA&pp=ygUOU2lyaSB3aW5kb3dzIDc%3D
+
+Windows say hey siri, working?!?!?: https://youtube.com/shorts/3VsDR4vbff0?feature=share
